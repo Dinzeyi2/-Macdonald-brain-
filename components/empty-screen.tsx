@@ -3,20 +3,20 @@ import { ArrowRight } from 'lucide-react'
 
 const exampleMessages = [
   {
-    heading: 'Why is Nvidia growing rapidly?',
-    message: 'Why is Nvidia growing rapidly?'
+    heading: 'Can you explain how McDonald uses nostalgia in its marketing campaigns?',
+    message: 'Can you explain how McDonald uses nostalgia in its marketing campaigns?'
   },
   {
-    heading: 'Is the Apple Vision Pro worth buying?',
-    message: 'Is the Apple Vision Pro worth buying?'
+    heading: 'What are some of the psychological tricks McDonald employs to increase customer engagement?',
+    message: 'What are some of the psychological tricks McDonald employs to increase customer engagement?'
   },
   {
-    heading: 'How does the Vercel AI SDK work?',
-    message: 'How does the Vercel AI SDK work?'
+    heading: 'How does humor play a role in McDonald advertisements?',
+    message: 'How does humor play a role in McDonald advertisements?'
   },
   {
-    heading: 'Tesla vs Rivian',
-    message: 'Tesla vs Rivian'
+    heading: 'What are the core elements of McDonald most successful marketing campaigns?',
+    message: 'What are the core elements of McDonald most successful marketing campaigns?'
   }
 ]
 export function EmptyScreen({
