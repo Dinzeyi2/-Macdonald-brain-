@@ -3,20 +3,20 @@ import { ArrowRight } from 'lucide-react'
 
 const exampleMessages = [
   {
-    heading: 'Can you explain how McDonald uses nostalgia in its marketing campaigns?',
-    message: 'Can you explain how McDonald uses nostalgia in its marketing campaigns?'
+    heading: 'I have a new snack brand called Crunchy Bites. How can I effectively market my products?',
+    message: 'I have a new snack brand called Crunchy Bites. How can I effectively market my products?'
   },
   {
-    heading: 'What are some of the psychological tricks McDonald employs to increase customer engagement?',
-    message: 'What are some of the psychological tricks McDonald employs to increase customer engagement?'
+    heading: 'I run a local gym and want to increase membership. What strategies can I implement?',
+    message: 'I run a local gym and want to increase membership. What strategies can I implement?'
   },
   {
-    heading: 'How does humor play a role in McDonald advertisements?',
-    message: 'How does humor play a role in McDonald advertisements?'
+    heading: 'I sell handmade jewelry online. How can I boost my sales and reach more customers?',
+    message: 'I sell handmade jewelry online. How can I boost my sales and reach more customers?'
   },
   {
-    heading: 'What are the core elements of McDonald most successful marketing campaigns?',
-    message: 'What are the core elements of McDonald most successful marketing campaigns?'
+    heading: 'I have a coffee shop and want to attract more customers. What promotional ideas can I use?',
+    message: 'I have a coffee shop and want to attract more customers. What promotional ideas can I use?'
   }
 ]
 export function EmptyScreen({
